@@ -14,8 +14,6 @@ Software engineering plays a crucial role in creating and maintaining applicatio
 - **Scalability:** Enables software systems to handle increased usage without performance loss.  
 - **Security:** Implements authentication, authorization, and encryption techniques to protect user data.  
 
----
-
 ### **2. Identify and describe at least three key milestones in the evolution of software engineering.**  
 
 1. **Development of Programming Languages (1950s–1960s)**  
@@ -30,8 +28,6 @@ Software engineering plays a crucial role in creating and maintaining applicatio
    - Agile frameworks (e.g., Scrum) improved flexibility and responsiveness to changes.  
    - Encouraged collaboration, continuous improvement, and iterative development.  
 
----
-
 ### **3. List and briefly explain the phases of the Software Development Life Cycle (SDLC).**  
 
 1. **Requirements:** Gathering and documenting system requirements.  
@@ -40,8 +36,6 @@ Software engineering plays a crucial role in creating and maintaining applicatio
 4. **Testing:** Conducting various tests to ensure functionality and quality.  
 5. **Deployment:** Releasing the software for real-world use.  
 6. **Maintenance:** Providing updates, bug fixes, and performance improvements.  
-
----
 
 ### **4. Compare and contrast the Waterfall and Agile methodologies.**  
 
@@ -56,8 +50,6 @@ Software engineering plays a crucial role in creating and maintaining applicatio
 **Examples:**  
 - **Use Waterfall** for **well-defined projects** like **banking software** where requirements rarely change.  
 - **Use Agile** for **e-commerce platforms** or **mobile apps** that require continuous updates.  
-
----
 
 ### **5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager.**  
 
@@ -76,8 +68,6 @@ Software engineering plays a crucial role in creating and maintaining applicatio
   - Coordinates team members and stakeholders.  
   - Manages risks and ensures software is delivered on time.  
 
----
-
 ### **6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process.**  
 
 - **Integrated Development Environments (IDEs)**  
@@ -89,8 +79,6 @@ Software engineering plays a crucial role in creating and maintaining applicatio
   - Allow multiple developers to collaborate effectively.  
   - Examples: **Git, Subversion (SVN)**  
 
----
-
 ### **7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**  
 
 | Challenge              | Solution                                  |
@@ -100,8 +88,6 @@ Software engineering plays a crucial role in creating and maintaining applicatio
 | **Technical Debt** | Follow best coding practices and perform regular refactoring. |
 | **Debugging Issues** | Implement automated testing (JUnit, Selenium). |
 | **Keeping Up with Technology** | Engage in continuous learning and attend workshops. |
-
----
 
 ### **8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**  
 
@@ -121,8 +107,6 @@ Software engineering plays a crucial role in creating and maintaining applicatio
   - Confirms that the software meets business and user requirements.  
   - Determines if the software is ready for deployment.  
 
----
-
 ## Part 2: Introduction to AI and Prompt Engineering  
 
 ### **1. Define prompt engineering and discuss its importance in interacting with AI models.**  
@@ -135,18 +119,16 @@ Prompt engineering is the process of designing and optimizing AI input queries t
 - **Enhances Efficiency:** Reduces follow-up queries.  
 - **Reduces Bias:** Ensures AI-generated responses are fair and unbiased.  
 
----
-
 ### **2. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**  
 
 **Vague Prompt:**  
-*"Draw a picture of a person."*  
+*"Write about GitHub."*  
 
 **Improved Prompt:**  
-*"Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background."*  
+*"Explain the purpose of GitHub and how it helps with version control. Include key features such as repositories, branches, commits, and pull requests."*  
 
 **Why it's more effective:**  
-- **Clarity:** Specifies that a full-body portrait is required.  
-- **Details:** Describes the person’s clothing and background setting.  
-- **Conciseness:** Provides just enough information for an accurate interpretation.  
+- **More Specific:** It defines the topic (GitHub) and its role in version control.  
+- **Guides the response:** It lists key elements to include (repositories, branches, etc.).  
+- **More actionable: :** The improved version gives clear instructions, making it easier to write a focused and relevant answer.
 
